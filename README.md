@@ -1,4 +1,4 @@
-Here is the Code i used:
+Here is the redirect-Code i used:
 ```
 <!DOCTYPE html>
 <meta charset="utf-8">
