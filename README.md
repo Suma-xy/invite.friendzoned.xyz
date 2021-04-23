@@ -6,3 +6,6 @@ Here is the redirect-code i used:
 <meta http-equiv="refresh" content="0; URL=https://example.com/">
 <link rel="canonical" href="https://example.com/">
 ```
+
+Click here- automatic!
+[GitHub](https://www.kulturgutretter.online/)
