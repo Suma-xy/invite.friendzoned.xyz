@@ -8,4 +8,4 @@ Here is the redirect-code i used:
 ```
 
 Click here- automatic!
-[GitHub](https://www.kulturgutretter.online/)
+[Click here](https://www.kulturgutretter.online/)
